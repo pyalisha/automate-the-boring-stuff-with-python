@@ -10,6 +10,7 @@ This repository aims to solve the coding questions presented in the book, and so
 - [Desktop Notification](./desktop_notification.py)
 - [Game: Guess the number](./guess_the_number.py)
 - [Game: Rock Paper Scissor](./rock_paper_scissor.py)
+- [Collatz Sequence](collatz_sequence.py)
 
 <!-- /TOC -->
 ## Getting Started
